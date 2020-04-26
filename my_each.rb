@@ -3,6 +3,3 @@ def my_each(collection) # put argument(s) here
    collection.forEach(element => console.log(element));
 end
 
-my_each(collection) do |i|
-  puts i 
-end 
